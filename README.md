@@ -1,4 +1,4 @@
-# Exercice-condition--valuer-des-variables
+# Exercice-condition-evaluer-des-variables
 Exercices odyssey
 
 // Declare and define three variables using a numerical value
